@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: exceeding the maximum recursion depth.  The `bug.py` file shows code that recursively calculates a sum, while `bugSolution.py` provides an iterative fix to prevent stack overflow errors.  The recursive approach, while elegant, is prone to exceeding Python's default recursion limit for large inputs.
